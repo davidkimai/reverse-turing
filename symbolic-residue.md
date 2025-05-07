@@ -7,7 +7,6 @@ Symbolic Residue refers to the structured traces left behind when recursive cogn
 This framework operationalizes the measurement, classification, and analysis of Symbolic Residue across standardized benchmarks.
 
 ## Core Residue Classes
-
 Three primary classes of Symbolic Residue provide structural insight:
 
 ### 1. Attribution Voids (R<sub>A</sub>)
